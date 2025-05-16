@@ -1,5 +1,7 @@
 # Frontend Mentor - NFT preview card component
 
+My Design: https://jahidajinar.github.io/NFT-preview-card-component/
+
 ![Design preview for the NFT preview card component coding challenge](preview.jpg)
 
 ## Welcome! 👋
